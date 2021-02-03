@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/russellharrower/AndroidStudioProjects/drn1/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-nb/values-nb.xml",
+            "map": [
+                {
+                    "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,158,263,362,497",
+                        "endColumns": "102,104,98,134,143",
+                        "endOffsets": "153,258,357,492,636"
+                    },
+                    "to": {
+                        "startLines": "3,47,48,49,50",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "294,3395,3500,3599,3734",
+                        "endColumns": "102,104,98,134,143",
+                        "endOffsets": "392,3495,3594,3729,3873"
+                    }
+                },
+                {
+                    "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/8767e709312d20fa276aa6316188738b/jetified-play-services-basement-17.0.0/res/values-nb/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "188",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,133,213,288,357,430,497,572,648,729,803,876,949,1041,1132,1196,1261,1337,1399,1463,1534,1614,1685,1738,1796,1844,1905,1975,2043,2109,2179,2243,2302,2366,2431,2497,2549,2609,2683,2757",
+                        "endColumns": "77,79,74,68,72,66,74,75,80,73,72,72,91,90,63,64,75,61,63,70,79,70,52,57,47,60,69,67,65,69,63,58,63,64,65,51,59,73,73,52",
+                        "endOffsets": "128,208,283,352,425,492,567,643,724,798,871,944,1036,1127,1191,1256,1332,1394,1458,1529,1609,1680,1733,1791,1839,1900,1970,2038,2104,2174,2238,2297,2361,2426,2492,2544,2604,2678,2752,2805"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "397,475,555,630,699,772,839,914,990,1071,1145,1218,1291,1383,1474,1538,1603,1679,1741,1805,1876,1956,2027,2323,2381,2429,2490,2560,2628,2694,2764,2828,2887,2951,3016,3082,3134,3194,3268,3342",
+                        "endColumns": "77,79,74,68,72,66,74,75,80,73,72,72,91,90,63,64,75,61,63,70,79,70,52,57,47,60,69,67,65,69,63,58,63,64,65,51,59,73,73,52",
+                        "endOffsets": "470,550,625,694,767,834,909,985,1066,1140,1213,1286,1378,1469,1533,1598,1674,1736,1800,1871,1951,2022,2075,2376,2424,2485,2555,2623,2689,2759,2823,2882,2946,3011,3077,3129,3189,3263,3337,3390"
+                    }
+                },
+                {
+                    "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/dee2aedf6dfe60899628013cdfe9f8c2/extension-mediasession-2.11.2/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,135,220",
+                        "endColumns": "79,84,77",
+                        "endOffsets": "130,215,293"
+                    },
+                    "to": {
+                        "startLines": "27,28,29",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2080,2160,2245",
+                        "endColumns": "79,84,77",
+                        "endOffsets": "2155,2240,2318"
+                    }
+                },
+                {
+                    "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "3878",
+                        "endColumns": "100",
+                        "endOffsets": "3974"
+                    }
+                }
+            ]
+        }
+    ]
+}

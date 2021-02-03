@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Sovelluksella <ns1:g id="APP_NAME">%1$s</ns1:g> on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen."</string>
+    <string msgid="6743534657295236036" name="default_notification_channel_name">"Nyt toistetaan"</string>
+    <string name="exo_controls_fastforward_description">Kelaa eteenpäin</string>
+    <string name="exo_controls_fullscreen_description">Koko näytön tila</string>
+    <string name="exo_controls_hide">Näytä soittimen säätimet</string>
+    <string name="exo_controls_next_description">Seuraava kappale</string>
+    <string name="exo_controls_pause_description">Keskeytä</string>
+    <string name="exo_controls_play_description">Toista</string>
+    <string name="exo_controls_previous_description">Edellinen kappale</string>
+    <string name="exo_controls_repeat_all_description">Toista kaikki uudelleen</string>
+    <string name="exo_controls_repeat_off_description">Ei uudelleentoistoa</string>
+    <string name="exo_controls_repeat_one_description">Toista yksi uudelleen</string>
+    <string name="exo_controls_rewind_description">Kelaa taaksepäin</string>
+    <string name="exo_controls_show">Näytä soittimen säätimet</string>
+    <string name="exo_controls_shuffle_off_description">Satunnaistoisto ei käytössä</string>
+    <string name="exo_controls_shuffle_on_description">Satunnaistoisto käytössä</string>
+    <string name="exo_controls_stop_description">Lopeta</string>
+    <string name="exo_controls_vr_description">VR-tila</string>
+    <string name="exo_download_completed">Lataus valmis</string>
+    <string name="exo_download_description">Lataa</string>
+    <string name="exo_download_downloading">Ladataan</string>
+    <string name="exo_download_failed">Lataus epäonnistui</string>
+    <string name="exo_download_notification_channel_name">Lataukset</string>
+    <string name="exo_download_removing">Poistetaan latauksia</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_media_action_repeat_all_description">Toista kaikki uudelleen</string>
+    <string name="exo_media_action_repeat_off_description">Ei uudelleentoistoa</string>
+    <string name="exo_media_action_repeat_one_description">Toista yksi uudelleen</string>
+    <string name="exo_track_bitrate">%1$.2f Mt/s</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Vaihtoehtoinen</string>
+    <string name="exo_track_role_closed_captions">Tekstitykset</string>
+    <string name="exo_track_role_commentary">Kommenttiraita</string>
+    <string name="exo_track_role_supplementary">Lisämateriaali</string>
+    <string name="exo_track_selection_auto">Automaattinen</string>
+    <string name="exo_track_selection_none">–</string>
+    <string name="exo_track_selection_title_audio">Ääni</string>
+    <string name="exo_track_selection_title_text">Teksti</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround-ääni</string>
+    <string name="exo_track_surround_5_point_1">5.1-surround-ääni</string>
+    <string name="exo_track_surround_7_point_1">7.1-surround-ääni</string>
+    <string name="exo_track_unknown">Tuntematon</string>
+    <string msgid="4221330012095125431" name="pause_button_content_description">"Tauko"</string>
+    <string msgid="6034272287948142298" name="play_button_content_description">"Toista"</string>
+    <string msgid="17824442457643717" name="skip_to_next_item_button_content_description">"Siirry seuraavaan"</string>
+    <string msgid="7233771088610629683" name="skip_to_previous_item_button_content_description">"Siirry edelliseen"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

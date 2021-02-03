@@ -1,0 +1,437 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:1:1-52:12
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:1:1-52:12
+MERGED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:2:1-15:12
+MERGED from [:platform_device_id] /home/russellharrower/AndroidStudioProjects/drn1/build/platform_device_id/intermediates/library_manifest/profile/AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] /home/russellharrower/AndroidStudioProjects/drn1/build/device_info/intermediates/library_manifest/profile/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /home/russellharrower/AndroidStudioProjects/drn1/build/sqflite/intermediates/library_manifest/profile/AndroidManifest.xml:2:1-7:12
+MERGED from [:audio_service] /home/russellharrower/AndroidStudioProjects/drn1/build/audio_service/intermediates/library_manifest/profile/AndroidManifest.xml:2:1-7:12
+MERGED from [:audio_session] /home/russellharrower/AndroidStudioProjects/drn1/build/audio_session/intermediates/library_manifest/profile/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /home/russellharrower/AndroidStudioProjects/drn1/build/path_provider/intermediates/library_manifest/profile/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_isolate] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_isolate/intermediates/library_manifest/profile/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /home/russellharrower/AndroidStudioProjects/drn1/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-core:17.5.1] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5545e3fc88306e5145b7eb567e5e21e1/firebase-core-17.5.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/717f75c82c187f23e66100ff4936efd6/firebase-analytics-17.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/fd17dc6b6b71d0e98e38321bb360051d/play-services-measurement-sdk-17.6.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/92853f1f358dd59a805616e511afbdee/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0f0610cdcf96e6cfa9529b6a3246e3f6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/bce9999f881bb3993a5b24e08740cbbf/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8879511d37bcc568b4802bd715f045ca/exoplayer-2.11.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/dee2aedf6dfe60899628013cdfe9f8c2/extension-mediasession-2.11.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/aa3b847ee486858536723d4d6eab4453/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/339353d2945c33d4dd904aa32ab9ea9e/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/1ddcd411eaedef0efbde0f67c9ed7a3b/play-services-measurement-base-17.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/7fefbe3e39f68382da5a80fe24a21525/firebase-installations-interop-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/10631bb3012ccad9c5c9285264903a3d/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/f9ea6dac07c9a9125302baab7c530035/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8767e709312d20fa276aa6316188738b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1bbce6b0d79e8479b70e7bd729bb743/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/615cab8ad6393a9c868d48761bbea666/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b4a3a22f2fd33c2c083d6c3b27539a51/media2-common-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.2.0-alpha03] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/859b18280b7bd722809935488c9ff361/media-1.2.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/ef0bef029ab70f5fb29de019060cf5fd/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/49ede1f7b9aa322a43288e9745adc2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/54d8b8735f730e83f07925f758092af3/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/23edc849475fdda61367cb003f9b9f93/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/79f9d65ef8b1c716310f666473a689a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/c9735172d8c765718d2a6ba19b0d4bad/exoplayer-dash-2.11.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/551ad0d2c59728791e7791c91563547d/exoplayer-hls-2.11.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/075269c293e7d5c00797c58f635e0d36/exoplayer-smoothstreaming-2.11.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/4e9ca4d450946c02cfe0182ff0d649d3/jetified-exoplayer-core-2.11.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/077300052aa327ee6fc9bbb0ce309b24/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b80fad55c42c418cc210e235056767fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/305760edfef7a37ff0e57d0ab517e279/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/35bca835e72502cae5588ee7a59cf4b0/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/6b1132090a8a1ffc60b82d3452ca52ad/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/profile/AndroidManifest.xml:1:1-51:12
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/profile/AndroidManifest.xml:1:1-51:12
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/profile/AndroidManifest.xml:1:1-51:12
+	package
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/profile/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:1:1-52:12
+		INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/profile/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:1:1-52:12
+		INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/profile/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:9:5-67
+MERGED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/339353d2945c33d4dd904aa32ab9ea9e/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/339353d2945c33d4dd904aa32ab9ea9e/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:9:5-78
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/339353d2945c33d4dd904aa32ab9ea9e/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/339353d2945c33d4dd904aa32ab9ea9e/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/4e9ca4d450946c02cfe0182ff0d649d3/jetified-exoplayer-core-2.11.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/4e9ca4d450946c02cfe0182ff0d649d3/jetified-exoplayer-core-2.11.2/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/339353d2945c33d4dd904aa32ab9ea9e/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/339353d2945c33d4dd904aa32ab9ea9e/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:11:5-77
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:11:5-77
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:11:5-77
+MERGED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:8:5-77
+MERGED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:11:22-74
+application
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:12:5-51:19
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:12:5-51:19
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:12:5-51:19
+MERGED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:11:5-13:19
+MERGED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:11:5-13:19
+MERGED from [:firebase_core] /home/russellharrower/AndroidStudioProjects/drn1/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/russellharrower/AndroidStudioProjects/drn1/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-core:17.5.1] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5545e3fc88306e5145b7eb567e5e21e1/firebase-core-17.5.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.5.1] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5545e3fc88306e5145b7eb567e5e21e1/firebase-core-17.5.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/717f75c82c187f23e66100ff4936efd6/firebase-analytics-17.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/717f75c82c187f23e66100ff4936efd6/firebase-analytics-17.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/fd17dc6b6b71d0e98e38321bb360051d/play-services-measurement-sdk-17.6.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/fd17dc6b6b71d0e98e38321bb360051d/play-services-measurement-sdk-17.6.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/92853f1f358dd59a805616e511afbdee/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/92853f1f358dd59a805616e511afbdee/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/aa3b847ee486858536723d4d6eab4453/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/aa3b847ee486858536723d4d6eab4453/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/1ddcd411eaedef0efbde0f67c9ed7a3b/play-services-measurement-base-17.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/1ddcd411eaedef0efbde0f67c9ed7a3b/play-services-measurement-base-17.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/10631bb3012ccad9c5c9285264903a3d/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/10631bb3012ccad9c5c9285264903a3d/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/f9ea6dac07c9a9125302baab7c530035/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/f9ea6dac07c9a9125302baab7c530035/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8767e709312d20fa276aa6316188738b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8767e709312d20fa276aa6316188738b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:15:9-43
+	android:usesCleartextTraffic
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:13:9-57
+activity#com.radiomedia.drn1.MainActivity
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:17:9-45:20
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:17:9-45:20
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:17:9-45:20
+	android:launchMode
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:21:13-163
+	android:theme
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:18:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:28:13-31:17
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:28:13-31:17
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:28:13-31:17
+	android:resource
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:30:15-52
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:29:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:37:13-40:17
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:37:13-40:17
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:37:13-40:17
+	android:resource
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:39:15-61
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:38:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:43:27-74
+meta-data#flutterEmbedding
+ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:48:9-50:33
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:48:9-50:33
+MERGED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:48:9-50:33
+	android:value
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:50:13-30
+	android:name
+		ADDED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml:49:13-44
+uses-sdk
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:platform_device_id] /home/russellharrower/AndroidStudioProjects/drn1/build/platform_device_id/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:platform_device_id] /home/russellharrower/AndroidStudioProjects/drn1/build/platform_device_id/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /home/russellharrower/AndroidStudioProjects/drn1/build/device_info/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /home/russellharrower/AndroidStudioProjects/drn1/build/device_info/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /home/russellharrower/AndroidStudioProjects/drn1/build/sqflite/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /home/russellharrower/AndroidStudioProjects/drn1/build/sqflite/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:audio_service] /home/russellharrower/AndroidStudioProjects/drn1/build/audio_service/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:audio_service] /home/russellharrower/AndroidStudioProjects/drn1/build/audio_service/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] /home/russellharrower/AndroidStudioProjects/drn1/build/audio_session/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] /home/russellharrower/AndroidStudioProjects/drn1/build/audio_session/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/russellharrower/AndroidStudioProjects/drn1/build/path_provider/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/russellharrower/AndroidStudioProjects/drn1/build/path_provider/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_isolate] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_isolate/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_isolate] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_isolate/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/russellharrower/AndroidStudioProjects/drn1/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/russellharrower/AndroidStudioProjects/drn1/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.5.1] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5545e3fc88306e5145b7eb567e5e21e1/firebase-core-17.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.5.1] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5545e3fc88306e5145b7eb567e5e21e1/firebase-core-17.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/717f75c82c187f23e66100ff4936efd6/firebase-analytics-17.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/717f75c82c187f23e66100ff4936efd6/firebase-analytics-17.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/fd17dc6b6b71d0e98e38321bb360051d/play-services-measurement-sdk-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/fd17dc6b6b71d0e98e38321bb360051d/play-services-measurement-sdk-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/92853f1f358dd59a805616e511afbdee/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/92853f1f358dd59a805616e511afbdee/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0f0610cdcf96e6cfa9529b6a3246e3f6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0f0610cdcf96e6cfa9529b6a3246e3f6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/bce9999f881bb3993a5b24e08740cbbf/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/bce9999f881bb3993a5b24e08740cbbf/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8879511d37bcc568b4802bd715f045ca/exoplayer-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8879511d37bcc568b4802bd715f045ca/exoplayer-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/dee2aedf6dfe60899628013cdfe9f8c2/extension-mediasession-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/dee2aedf6dfe60899628013cdfe9f8c2/extension-mediasession-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/aa3b847ee486858536723d4d6eab4453/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/aa3b847ee486858536723d4d6eab4453/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/339353d2945c33d4dd904aa32ab9ea9e/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/339353d2945c33d4dd904aa32ab9ea9e/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/1ddcd411eaedef0efbde0f67c9ed7a3b/play-services-measurement-base-17.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/1ddcd411eaedef0efbde0f67c9ed7a3b/play-services-measurement-base-17.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/7fefbe3e39f68382da5a80fe24a21525/firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/7fefbe3e39f68382da5a80fe24a21525/firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/10631bb3012ccad9c5c9285264903a3d/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/10631bb3012ccad9c5c9285264903a3d/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/f9ea6dac07c9a9125302baab7c530035/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/f9ea6dac07c9a9125302baab7c530035/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8767e709312d20fa276aa6316188738b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8767e709312d20fa276aa6316188738b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1bbce6b0d79e8479b70e7bd729bb743/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1bbce6b0d79e8479b70e7bd729bb743/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/615cab8ad6393a9c868d48761bbea666/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/615cab8ad6393a9c868d48761bbea666/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/ebe41fb46a59e7079d2e9c60fe69b873/media2-session-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b4a3a22f2fd33c2c083d6c3b27539a51/media2-common-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b4a3a22f2fd33c2c083d6c3b27539a51/media2-common-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha03] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/859b18280b7bd722809935488c9ff361/media-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha03] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/859b18280b7bd722809935488c9ff361/media-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/ef0bef029ab70f5fb29de019060cf5fd/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/ef0bef029ab70f5fb29de019060cf5fd/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/49ede1f7b9aa322a43288e9745adc2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/49ede1f7b9aa322a43288e9745adc2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/54d8b8735f730e83f07925f758092af3/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/54d8b8735f730e83f07925f758092af3/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/23edc849475fdda61367cb003f9b9f93/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/23edc849475fdda61367cb003f9b9f93/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/79f9d65ef8b1c716310f666473a689a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/79f9d65ef8b1c716310f666473a689a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/c9735172d8c765718d2a6ba19b0d4bad/exoplayer-dash-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/c9735172d8c765718d2a6ba19b0d4bad/exoplayer-dash-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/551ad0d2c59728791e7791c91563547d/exoplayer-hls-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/551ad0d2c59728791e7791c91563547d/exoplayer-hls-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/075269c293e7d5c00797c58f635e0d36/exoplayer-smoothstreaming-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/075269c293e7d5c00797c58f635e0d36/exoplayer-smoothstreaming-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/4e9ca4d450946c02cfe0182ff0d649d3/jetified-exoplayer-core-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/4e9ca4d450946c02cfe0182ff0d649d3/jetified-exoplayer-core-2.11.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/077300052aa327ee6fc9bbb0ce309b24/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/077300052aa327ee6fc9bbb0ce309b24/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b80fad55c42c418cc210e235056767fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b80fad55c42c418cc210e235056767fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/305760edfef7a37ff0e57d0ab517e279/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/305760edfef7a37ff0e57d0ab517e279/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/35bca835e72502cae5588ee7a59cf4b0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/35bca835e72502cae5588ee7a59cf4b0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/6b1132090a8a1ffc60b82d3452ca52ad/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/6b1132090a8a1ffc60b82d3452ca52ad/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/profile/AndroidManifest.xml
+INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/profile/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/profile/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/russellharrower/AndroidStudioProjects/drn1/android/app/src/profile/AndroidManifest.xml
+service#me.sithiramunasinghe.flutter.flutter_radio_player.core.StreamingCore
+ADDED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:12:9-104
+	android:name
+		ADDED from [:flutter_radio_player] /home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/library_manifest/profile/AndroidManifest.xml:12:18-101
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_core] /home/russellharrower/AndroidStudioProjects/drn1/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:29:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_core] /home/russellharrower/AndroidStudioProjects/drn1/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /home/russellharrower/AndroidStudioProjects/drn1/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /home/russellharrower/AndroidStudioProjects/drn1/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /home/russellharrower/AndroidStudioProjects/drn1/build/firebase_core/intermediates/library_manifest/profile/AndroidManifest.xml:10:17-124
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/b8e73733ca488753182dcee6e2b552ea/play-services-measurement-impl-17.6.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/0d342e24eccb8c9a3b162d4b6c1af4aa/play-services-measurement-17.6.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/e1806b5d8c796f42005748cdeee0ef6f/play-services-measurement-api-17.6.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.2] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/2de984a89aa50922b6ead3cb0334fcbc/firebase-installations-16.3.2/AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/5a40d971cd3a0f5696f048df33221ead/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8767e709312d20fa276aa6316188738b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8767e709312d20fa276aa6316188738b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/russellharrower/.gradle/caches/transforms-2/files-2.1/8767e709312d20fa276aa6316188738b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

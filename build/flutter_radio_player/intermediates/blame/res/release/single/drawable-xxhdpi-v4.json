@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_repeat_one.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_repeat_one.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_next.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_media_action_repeat_one.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/dee2aedf6dfe60899628013cdfe9f8c2/extension-mediasession-2.11.2/res/drawable-xxhdpi-v4/exo_media_action_repeat_one.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_rewind.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_fullscreen_exit.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_fullscreen_exit.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_shuffle_off.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_shuffle_off.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_repeat_off.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_repeat_off.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_fullscreen_enter.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_fullscreen_enter.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_repeat_all.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_repeat_all.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_vr.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_vr.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_shuffle_on.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_shuffle_on.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_media_action_repeat_off.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/dee2aedf6dfe60899628013cdfe9f8c2/extension-mediasession-2.11.2/res/drawable-xxhdpi-v4/exo_media_action_repeat_off.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_circular_play.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_circular_play.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_previous.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_media_action_repeat_all.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/dee2aedf6dfe60899628013cdfe9f8c2/extension-mediasession-2.11.2/res/drawable-xxhdpi-v4/exo_media_action_repeat_all.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_play.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_stop.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_pause.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/home/russellharrower/AndroidStudioProjects/drn1/build/flutter_radio_player/intermediates/res/merged/release/drawable-xxhdpi-v4/exo_icon_fastforward.png",
+        "source": "/home/russellharrower/.gradle/caches/transforms-2/files-2.1/b16f59a18a447a5f3c503e726699171c/exoplayer-ui-2.11.2/res/drawable-xxhdpi-v4/exo_icon_fastforward.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Wed Feb 03 21:04:25 AWST 2021
+base.0=/home/russellharrower/AndroidStudioProjects/drn1/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
